@@ -1,0 +1,1 @@
+This 2.0 rsync is extracted from Visual Studio 2019. From simple test, we found this edition cannot transfer files from different disk partition. So if you need to transer files to disk partition which is different from the rsyncd daemon running, you'd better use 1.0.
